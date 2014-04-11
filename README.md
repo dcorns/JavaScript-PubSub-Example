@@ -1,2 +1,2 @@
-Repository1
+JavaScript-PubSub-Example
 ===========
